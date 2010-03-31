@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /images/
-Disallow: /javascripts/
-Disallow: /stylesheets/
-Sitemap: http://www.rockfordambulance.com/sitemap.xml
