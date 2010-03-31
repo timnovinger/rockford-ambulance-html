@@ -1,0 +1,4 @@
+#left-col{padding:0 5px; width:188px;}		/* fix for call out text box-model */
+#left-col img{left:-5px;}					/* corrects for lack of padding that ^ above fix causes */
+
+.clear{display:inline;}						/* fixes height bug on these empty divs that shouldn't push content around */
