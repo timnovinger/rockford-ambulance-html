@@ -7,4 +7,4 @@ In addition, the training guy needs to get off his duff and SUIT UP.
 # Instructions
 Replace the link in the base tag according to the production environment setup, or simply remove it all together, via a project find/replace.
     
-    <base href="/l5/rockford-ambulance-html/" />
+    <base href="http://localhost/l5/rockford-ambulance-html/" />
